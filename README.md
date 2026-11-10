@@ -15,4 +15,4 @@ Etudiant en design, j'aime les interfaces qui slay
 
 ## Ma page 
 
-[Voir ma page en ligne]([httpas://Baptiste2207.github.io/vibe-coding-starter/](https://www.absolut.com/fr-fr/products/))
+[Voir ma page en ligne](https://www.absolut.com/fr-fr/products/)
